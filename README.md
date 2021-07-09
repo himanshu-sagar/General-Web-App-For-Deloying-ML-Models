@@ -9,11 +9,11 @@ data and use it learn for themselves.
 
 ## Goal: Analysis of Machine learning model accuracy for a particular dataset on different ML algorithms.
 
-*This project is about the deployment of any kind of machine learning/deep learning
+* This project is about the deployment of any kind of machine learning/deep learning
 model over the internet.In machine learning we always face an issue of selecting the best Model for any dataset.
-For solving that problem, I have integrated many Ml Models on a single platform, so that we can compare the performance of diffrent ML models for a specific dataset.
+For solving that problem, I have integrated many Ml Models on a single platform, so that we can compare the performance of different ML models for a specific dataset.
 
-For this project, I am using Flask, HTML, CSS ,BootStrap and python for deploying the Model.*
+For this project, I am using Flask, HTML, CSS ,BootStrap and python for deploying the Model. *
 
 ## Features
 
