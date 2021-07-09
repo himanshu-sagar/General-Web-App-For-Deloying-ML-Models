@@ -7,19 +7,18 @@ data and use it learn for themselves.
 
 ## About This Web App
 
+##Goal: Analysis of Machine learning model accuracy for a particular dataset on different ML algorithms.
+
 *This project is about the deployment of any kind of machine learning/deep learning
-model over the internet. Generally, programmers do coding for AI in IDEs. But that
-is limited to the programmer only. No other people is able to see his work and utilize his
-technology that he has developed. So, I am developing a website where I can
-showcase my work and share it with the world. Any programmer will be able to analyze
-any kind of model on this website. We can deploy our model on any kind of GUI i.e.
-using python tkinter, Django, flask, Java Gui and many other frameworks.
-For this project, I am using Flask, HTML, CSS ,BootStrap and python.*
+model over the internet.In machine learning we always face an issue of selecting the best Model for any dataset.
+For solving that problem, I have integrated many Ml Models on a single platform, so that we can compare the performance of diffrent ML models for a specific dataset.
+
+For this project, I am using Flask, HTML, CSS ,BootStrap and python for deploying the Model *
 
 ## Features
 
 **Multiple Kinds of Model**
-Three kinds of models can be deployed on this website.
+Three kinds of model can be deployed on this website.
 1. Regression Models
 2. Classification Models
 3. Deep Learning Models
